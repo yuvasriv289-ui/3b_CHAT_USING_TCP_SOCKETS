@@ -52,11 +52,7 @@ client_socket.close()
 ```
 ## OUPUT1 
 <img width="1151" height="213" alt="chat server " src="https://github.com/user-attachments/assets/d858cc58-d3a1-44cf-b63b-76a280a00f01" />
-
-
-
 ## OUTPUT2
-
 <img width="1189" height="215" alt="chat client" src="https://github.com/user-attachments/assets/0dcb17fc-ae71-4a9a-94fe-e97af2e5872f" />
 
 ## RESULT
